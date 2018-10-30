@@ -22,8 +22,7 @@ Final Breadboarding:
 
 # Schematic Fritzing
 
-![schematic fritzing](https://user-images.githubusercontent.com/43180510/47752641-680b9100-dc6b-11e8-82d7-6410d2ea7822.png)
-
+![schematic fritzing](https://user-images.githubusercontent.com/43180510/47753465-fed94d00-dc6d-11e8-86bb-f4ec9ecccb56.png)
 
 # VNC connection:
 
