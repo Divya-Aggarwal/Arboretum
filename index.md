@@ -18,7 +18,7 @@ Final Breadboarding:
 
 # Fritzing Breadboard
 
-![breadboard fritzing](https://user-images.githubusercontent.com/43180510/47751437-21686780-dc68-11e8-85ab-3cbb370a88a5.png)
+![breadboard fritzing](https://user-images.githubusercontent.com/43180510/47753239-398eb580-dc6d-11e8-832e-60a3caed477c.png)
 
 # Schematic Fritzing
 
