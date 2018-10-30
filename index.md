@@ -20,6 +20,11 @@ Final Breadboarding:
 
 ![breadboard fritzing](https://user-images.githubusercontent.com/43180510/47751437-21686780-dc68-11e8-85ab-3cbb370a88a5.png)
 
+# Schematic Fritzing
+
+![schematic fritzing](https://user-images.githubusercontent.com/43180510/47752641-680b9100-dc6b-11e8-82d7-6410d2ea7822.png)
+
+
 # VNC connection:
 
 ![20181029_145059](https://user-images.githubusercontent.com/43180510/47674069-d168a280-db8c-11e8-9ff3-d1bf8c915755.jpg)
