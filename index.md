@@ -18,8 +18,7 @@ Final Breadboarding:
 
 # Fritzing Breadboard
 
-![breadboard fritzing](https://user-images.githubusercontent.com/43180510/47751355-e36b4380-dc67-11e8-92e9-7735f76eb1e1.png)
-
+![breadboard fritzing](https://user-images.githubusercontent.com/43180510/47751437-21686780-dc68-11e8-85ab-3cbb370a88a5.png)
 
 # VNC connection:
 
