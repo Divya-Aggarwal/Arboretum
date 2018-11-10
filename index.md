@@ -4,11 +4,8 @@
 
 I consult Kelly and Vlad and they told me to do connections with jumper wires as I have to dip almost half of my sensor in water (to do water level test) which is not possible to do if I connect my sensor directly to raspberry pi. If I do directly connect my sensor with raspberry pi, than while doing testing I have to make my raspberry pi wet and that is stupidity. So my sensor is connected to my PCB via jumper wires (male to female).
 
-![whatsapp image 2018-11-09 at 10 22 21 pm](https://user-images.githubusercontent.com/43180510/48297080-3c0fbd00-e46e-11e8-893c-f0dcf10dd303.jpeg)
+![pic1](https://user-images.githubusercontent.com/43180510/48297162-eb995f00-e46f-11e8-9943-37209e0373eb.png)
 
-![whatsapp image 2018-11-09 at 10 22 21 pm 1](https://user-images.githubusercontent.com/43180510/48297116-04554500-e46f-11e8-83e6-271b0b754a6c.jpeg)
-
-![whatsapp image 2018-11-09 at 10 22 21 pm 2](https://user-images.githubusercontent.com/43180510/48297124-28188b00-e46f-11e8-84fc-455820315b8f.jpeg)
 
 
 # Fritzing
