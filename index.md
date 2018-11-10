@@ -1,17 +1,16 @@
 # Invoice
 
-## Fritzing
+# Fritzing
 
-
-# Fritzing Breadboard
+## Fritzing Breadboard
 
 ![breadboard fritzing](https://user-images.githubusercontent.com/43180510/47753239-398eb580-dc6d-11e8-832e-60a3caed477c.png)
 
-# Schematic Fritzing
+## Schematic Fritzing
 
 ![schematic fritzing](https://user-images.githubusercontent.com/43180510/47753465-fed94d00-dc6d-11e8-86bb-f4ec9ecccb56.png)
 
-# PCB Fritzing
+## PCB Fritzing
 
 ![pcb fritzing](https://user-images.githubusercontent.com/43180510/48296945-f8b44f00-e46b-11e8-85b4-f20c96e7ecf9.png)
 
