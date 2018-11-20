@@ -1,4 +1,18 @@
+# Power-up (Week 11)
+
+## Progress Report
+
+In this week, I finish my readings retrival part and my sensor is working properly.
+
+## Testing
+
+
+
 # PCB Soldering (Week 10)
+
+## Progress Report
+
+I connect my PCB to raspberry Pi and finish all the connections. My connections are okay and my sesnor is working properly. Only problem I was facing with my connection part was I was not able to connect my sensor directly to PCB which I was able to sort further after consulting it with my teacher. 
 
 I consult Kelly and Vlad and they told me to do connections with jumper wires as I have to dip almost half of my sensor in water (to do water level test) which is not possible to do if I connect my sensor directly to raspberry pi. If I do directly connect my sensor with raspberry pi, than while doing testing I have to make my raspberry pi wet and that is stupidity. So my sensor is connected to my PCB via jumper wires (male to female).
 
@@ -10,6 +24,10 @@ I consult Kelly and Vlad and they told me to do connections with jumper wires as
 
 
 # Fritzing (Week 9)
+
+## Progress Report
+
+I am going well with my proposal and time schedule. I should have done my fritzing in this week and yeah i was able to cover up everything by this week. I was laking in sensor's reading part last week which I cover up in this week.
 
 ## Fritzing Breadboard
 
@@ -35,6 +53,7 @@ I consult Kelly and Vlad and they told me to do connections with jumper wires as
 
 
 # Breadboarding (Week 8)
+
 Resoultion: Kristian referred me to Vlad/Kelly for resolving the breadboarding problem.
 
 ## Initial Breadboarding:
