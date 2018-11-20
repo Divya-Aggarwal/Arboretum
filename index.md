@@ -1,6 +1,4 @@
-# Invoice
-
-# PCB Soldering
+# PCB Soldering (Week 10)
 
 I consult Kelly and Vlad and they told me to do connections with jumper wires as I have to dip almost half of my sensor in water (to do water level test) which is not possible to do if I connect my sensor directly to raspberry pi. If I do directly connect my sensor with raspberry pi, than while doing testing I have to make my raspberry pi wet and that is stupidity. So my sensor is connected to my PCB via jumper wires (male to female).
 
@@ -11,7 +9,7 @@ I consult Kelly and Vlad and they told me to do connections with jumper wires as
 ![whatsapp image 2018-11-09 at 10 22 21 pm 2](https://user-images.githubusercontent.com/43180510/48297190-81cd8500-e470-11e8-8cba-857d4525b8cb.jpeg)
 
 
-# Fritzing
+# Fritzing (Week 9)
 
 ## Fritzing Breadboard
 
@@ -26,39 +24,39 @@ I consult Kelly and Vlad and they told me to do connections with jumper wires as
 ![pcb fritzing](https://user-images.githubusercontent.com/43180510/48296945-f8b44f00-e46b-11e8-85b4-f20c96e7ecf9.png)
 
 
-# VNC connection:
+## VNC connection
 
 ![20181029_145059](https://user-images.githubusercontent.com/43180510/47674069-d168a280-db8c-11e8-9ff3-d1bf8c915755.jpg)
 
 
-# Sensor's Address:
+## Sensor's Address:
 
 ![sensor address](https://user-images.githubusercontent.com/43180510/47674315-64094180-db8d-11e8-852c-c2aefeb7baca.PNG)
 
 
-## Breadboarding
+# Breadboarding (Week 8)
 Resoultion: Kristian referred me to Vlad/Kelly for resolving the breadboarding problem.
 
-Initial Breadboarding:
+## Initial Breadboarding:
 
 ![breadboard](https://user-images.githubusercontent.com/32016580/47396692-e01d0880-d6f9-11e8-9192-59eb665b1132.jpg)
 
 
 After consulting kelly I get to know that 4.7 K Ohm resistors are required to connect in parallel to SCL and SDA clock wires.
 
-Final Breadboarding:
+## Final Breadboarding:
 
 ![20181025_184300](https://user-images.githubusercontent.com/43180510/47674068-d168a280-db8c-11e8-9fa4-1e713fe5e437.jpg)
 
 ![20181029_145107](https://user-images.githubusercontent.com/43180510/47674071-d168a280-db8c-11e8-82ce-63b5b338de49.jpg)
 
-## Budget (Week 4)
+# Budget (Week 5)
 
-# RPi
+## RPi
 
 ![rpi](https://user-images.githubusercontent.com/43180510/46379087-c133d500-c66b-11e8-80b7-1a72e7c437d3.PNG)
 
 
-# Sensor
+## Sensor
 
 ![sensor](https://user-images.githubusercontent.com/43180510/46378081-88dec780-c668-11e8-8531-d4f4b5a42a17.PNG)
