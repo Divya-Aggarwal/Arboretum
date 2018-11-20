@@ -52,13 +52,13 @@ Final Breadboarding:
 
 ![20181029_145107](https://user-images.githubusercontent.com/43180510/47674071-d168a280-db8c-11e8-82ce-63b5b338de49.jpg)
 
+## Budget (Week 4)
 
-
-## RPi
+# RPi
 
 ![rpi](https://user-images.githubusercontent.com/43180510/46379087-c133d500-c66b-11e8-80b7-1a72e7c437d3.PNG)
 
 
-## Sensor
+# Sensor
 
 ![sensor](https://user-images.githubusercontent.com/43180510/46378081-88dec780-c668-11e8-8531-d4f4b5a42a17.PNG)
