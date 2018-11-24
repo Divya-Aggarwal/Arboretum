@@ -27,11 +27,11 @@ At first,
 
 At last, when I put some more water in soil than moisture level increase and thus my readings of moisture level also change (increase). 
 
-![whatsapp image 2018-11-24 at 1 27 42 am](https://user-images.githubusercontent.com/43180510/48965336-18c63100-ef89-11e8-9ac5-07831e446c85.jpeg)
+![whatsapp image 2018-11-24 at 1 27 42 am 1](https://user-images.githubusercontent.com/43180510/48965330-1663d700-ef89-11e8-9dc4-e8c254b0480c.jpeg)
 
 Below is the picture showing the values :
 
-![whatsapp image 2018-11-24 at 1 27 42 am 1](https://user-images.githubusercontent.com/43180510/48965330-1663d700-ef89-11e8-9dc4-e8c254b0480c.jpeg)
+![whatsapp image 2018-11-24 at 1 27 42 am](https://user-images.githubusercontent.com/43180510/48965336-18c63100-ef89-11e8-9ac5-07831e446c85.jpeg)
 
 
 # PCB Soldering (Week 10)
