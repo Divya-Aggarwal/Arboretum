@@ -15,6 +15,23 @@ In this week, I finish my readings retrival part and my sensor is working proper
 
 ## Testing
 
+I have hit button on my chirp water sensor to get it to stay connected. I just hit the button and run  my pthon code to keep it communicating in sensor mode.
+
+![whatsapp image 2018-11-24 at 1 27 43 am 3](https://user-images.githubusercontent.com/43180510/48965341-2f6c8800-ef89-11e8-8ecf-04735e072cf6.jpeg)
+
+![whatsapp image 2018-11-24 at 1 27 43 am 1](https://user-images.githubusercontent.com/43180510/48965343-31364b80-ef89-11e8-954c-8d7b2de0f9ec.jpeg)
+
+
+At first,
+
+
+At last, when I put some more water in soil than moisture level increase and thus my readings of moisture level also change (increase). 
+
+![whatsapp image 2018-11-24 at 1 27 42 am](https://user-images.githubusercontent.com/43180510/48965336-18c63100-ef89-11e8-9ac5-07831e446c85.jpeg)
+
+Below is the picture showing the values :
+
+![whatsapp image 2018-11-24 at 1 27 42 am 1](https://user-images.githubusercontent.com/43180510/48965330-1663d700-ef89-11e8-9dc4-e8c254b0480c.jpeg)
 
 
 # PCB Soldering (Week 10)
