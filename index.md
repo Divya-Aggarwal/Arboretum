@@ -1,3 +1,12 @@
+# Raspberry pi case
+
+![paspberry pi case](https://user-images.githubusercontent.com/43180510/48965202-ea475680-ef86-11e8-9273-536513bd627d.PNG)
+
+![20181121_135756](https://user-images.githubusercontent.com/43180510/48965226-2975a780-ef87-11e8-8137-8a18a49d20f5.jpg)
+
+![20181121_135745](https://user-images.githubusercontent.com/43180510/48965231-34303c80-ef87-11e8-9a2b-706b92b38077.jpg)
+
+
 # Power-up (Week 11)
 
 ## Progress Report
