@@ -22,19 +22,21 @@ I have hit button on my chirp water sensor to get it to stay connected. I just h
 ![whatsapp image 2018-11-24 at 1 27 43 am 1](https://user-images.githubusercontent.com/43180510/48965343-31364b80-ef89-11e8-954c-8d7b2de0f9ec.jpeg)
 
 
-At first, I test my sensor without putting any water in the soil and below are the values I was getting :
+## At first, I test my sensor without putting any water in the soil and below are the values I was getting :
 
 ![readings](https://user-images.githubusercontent.com/43180510/48965372-d8b37e00-ef89-11e8-8969-e591c1cfa8d4.PNG)
 
 
-After getting normal readings I cover my LED with my hand to capture different brightness values as my sensor can measure light as well.
+## After getting normal readings I cover my LED with my hand to capture different brightness values as my sensor can measure light as well.
 
 ![whatsapp image 2018-11-24 at 1 27 42 am 4](https://user-images.githubusercontent.com/43180510/48965377-144e4800-ef8a-11e8-801f-ff35bc7667be.jpeg)
 
+Below is the picture showing the values :
+
+![readings2](https://user-images.githubusercontent.com/43180510/48965399-7149fe00-ef8a-11e8-94bb-b4d4b59dbbe6.PNG)
 
 
-
-At last, when I put some more water in soil than moisture level increase and thus my readings of moisture level also change (increase). 
+## At last, when I put some more water in soil than moisture level increase and thus my readings of moisture level also change (increase). 
 
 ![whatsapp image 2018-11-24 at 1 27 42 am 1](https://user-images.githubusercontent.com/43180510/48965330-1663d700-ef89-11e8-9dc4-e8c254b0480c.jpeg)
 
