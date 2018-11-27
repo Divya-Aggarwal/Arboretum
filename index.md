@@ -11,7 +11,7 @@
 
 ## Progress Report
 
-In this week, I finished my reading retrival part and my sensor is working properly.
+In this week, I finished my reading retrival part and my sensor is working properly. [link](https://github.com/Divya-Aggarwal/Arboretum/blob/master/budget%20.docx)
 
 ## Testing
 
