@@ -1,4 +1,4 @@
-# Raspberry pi case
+# Raspberry pi case (Week 12)
 
 ![paspberry pi case](https://user-images.githubusercontent.com/43180510/48965202-ea475680-ef86-11e8-9273-536513bd627d.PNG)
 
