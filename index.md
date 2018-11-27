@@ -17,7 +17,7 @@ As I defined in the proposal, my sensor measures both moisture and light level. 
 
 I was able to retrive both light and moisture values. The only problem I faced earlier was to understand my sensor's working as I have to press reset button twice to bring it in active mode which I figured out after long time.
 
-My budget is same as I proposed earlier but I ended up borrowing soil form humber nursery. Along with that I also got header pins from the prototype lab. Following is the link to open up my budget details.[budget](https://github.com/Divya-Aggarwal/Arboretum/blob/master/budget%20.docx)
+My budget is same as I proposed earlier but I ended up borrowing soil form humber nursery. Along with that I also got header pins from the prototype lab. Following is the link to open up my budget details. [budget](https://github.com/Divya-Aggarwal/Arboretum/blob/master/budget%20.docx)
 
 ## Testing
 
