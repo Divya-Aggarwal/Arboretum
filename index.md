@@ -1,4 +1,4 @@
-# Raspberry pi case (Week 12)
+# Raspberry pi case (Week 12)(Nov 20)
 
 ![paspberry pi case](https://user-images.githubusercontent.com/43180510/48965202-ea475680-ef86-11e8-9273-536513bd627d.PNG)
 
@@ -7,45 +7,47 @@
 ![20181121_135745](https://user-images.githubusercontent.com/43180510/48965231-34303c80-ef87-11e8-9a2b-706b92b38077.jpg)
 
 
-# Power-up (Week 11)
+# Power-up (Week 11 follow-up)(Nov 24)
 
 ## Progress Report
 
-In this week, I finish my readings retrival part and my sensor is working properly.
+In this week, I finished my reading retrival part and my sensor is working properly.
 
 ## Testing
 
-I have hit button on my chirp water sensor to get it to stay connected. I just hit the button and run  my pthon code to keep it communicating in sensor mode.
+I have to press the button on my chirp water sensor to get it to stay connected. I just press the button and run my python code to keep it communicating in sensor mode.
 
 ![whatsapp image 2018-11-24 at 1 27 43 am 3](https://user-images.githubusercontent.com/43180510/48965341-2f6c8800-ef89-11e8-8ecf-04735e072cf6.jpeg)
 
 ![whatsapp image 2018-11-24 at 1 27 43 am 1](https://user-images.githubusercontent.com/43180510/48965343-31364b80-ef89-11e8-954c-8d7b2de0f9ec.jpeg)
 
 
-## At first, I test my sensor without putting any water in the soil and below are the values I was getting :
+### At first, I tested my sensor without putting any water in the soil and the values below are what I was getting:
 
 ![readings](https://user-images.githubusercontent.com/43180510/48965372-d8b37e00-ef89-11e8-8969-e591c1cfa8d4.PNG)
 
 
-## After getting normal readings I cover my LED with my hand to capture different brightness values as my sensor can measure light as well.
+### After getting normal readings I covered my LED with my hand to capture different brightness values as my sensor can measure light as well.
 
 ![whatsapp image 2018-11-24 at 1 27 42 am 4](https://user-images.githubusercontent.com/43180510/48965377-144e4800-ef8a-11e8-801f-ff35bc7667be.jpeg)
 
-Below is the picture showing the values :
+Below is the picture showing the values:
 
 ![readings2](https://user-images.githubusercontent.com/43180510/48965399-7149fe00-ef8a-11e8-94bb-b4d4b59dbbe6.PNG)
 
 
-## At last, when I put some more water in soil than moisture level increase and thus my readings of moisture level also change (increase). 
+### At last, when I put some more water in the soil then the moisture level increased and thus my readings of moisture level also changed (increased). 
 
 ![whatsapp image 2018-11-24 at 1 27 42 am 1](https://user-images.githubusercontent.com/43180510/48965330-1663d700-ef89-11e8-9dc4-e8c254b0480c.jpeg)
 
-Below is the picture showing the values :
+Below is the picture showing the values:
 
 ![whatsapp image 2018-11-24 at 1 27 42 am](https://user-images.githubusercontent.com/43180510/48965336-18c63100-ef89-11e8-9ac5-07831e446c85.jpeg)
 
+# Power-up (Week 11)(Nov 13)
 
-# PCB Soldering (Week 10)
+
+# PCB Soldering (Week 10)(Nov 6)
 
 ## Progress Report
 
