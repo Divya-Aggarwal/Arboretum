@@ -11,7 +11,7 @@
 
 ## Progress Report
 
-In this week, I finished my reading retrival part and my sensor is working properly. I am 9 days ahead of my proposal but by the end of this week I was back on track. Following up is the link to open up my schedule. [Schedule](https://github.com/Divya-Aggarwal/Arboretum/blob/master/Schedule.mpp)
+In this week, I finished my reading retrival part and my sensor is working properly. I am 9 days behind of my proposal but by the end of this week I was back on track. Following up is the link to open up my schedule. [Schedule](https://github.com/Divya-Aggarwal/Arboretum/blob/master/Schedule.mpp)
 
 As I defined in the proposal, my sensor measures both moisture and light level. To know more about my sensor, open up the following link. [Proposal](https://github.com/Divya-Aggarwal/Arboretum/blob/master/Proposal%20.xlsx)
 
