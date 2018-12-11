@@ -10,9 +10,22 @@ Chirp! water sensor is also known as plant watering alarm. This sensor helps to 
 ##### -> PCB board with final circuit printed on it with correct address.
 ##### -> Socket header
 ##### -> Enclosure (case) to hold circuit together.
-cc
+
+
 # Overall Budget
 
 ![capture](https://user-images.githubusercontent.com/43180510/49830888-74056b00-fd60-11e8-93dd-53d7ad498b5c.PNG)
 
 I was able to arrange soil from nursery and socket header from prototype lab. Their can be additional charges for that too if you want to buy that youself. Other than that overall budget will be same as shown in table.
+
+# Time Commitment
+
+This schedule is made before we started working on our project (to keep us on track).
+
+![capture2](https://user-images.githubusercontent.com/43180510/49831279-7caa7100-fd61-11e8-84f4-4baeed8bc161.PNG)
+
+The only thing you need to keep in mind is that you need to press restart button twice to bring sensor in active mode and to get readings.
+
+# Mechanical Assembly
+
+## 
