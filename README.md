@@ -80,3 +80,12 @@ The wires that are yellow in colour are on the top side of the board and orange 
 After that you can just attached your sensor and raspberry pi to PCB. Make sure all the wires are connected and your sensor is at the correct address.
 
 ![capture7](https://user-images.githubusercontent.com/43180510/49833218-d6fa0080-fd66-11e8-8a28-e1ab9fa1e660.PNG)
+
+
+# Sensor Readings
+
+At this point you should have your raspberry pi and sensor ready to use to read data. Here i am ruuning this python code over here.
+
+
+![capture8](https://user-images.githubusercontent.com/43180510/49833472-96e74d80-fd67-11e8-9834-22169021fb78.PNG)
+![capture9](https://user-images.githubusercontent.com/43180510/49833479-9c449800-fd67-11e8-8ac9-8f7004cf5a73.PNG)
