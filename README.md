@@ -114,3 +114,6 @@ After you got your case pieces sperated using laser cut, you can combine them to
 
 ![capture15](https://user-images.githubusercontent.com/43180510/49834277-03634c00-fd6a-11e8-95a9-37700ef21555.PNG)
 
+
+You can use cable harnass instead of jumper wires. Laser cutting will be costly, so you can use injection moulding as it's alternative.
+
