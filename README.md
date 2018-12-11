@@ -93,3 +93,6 @@ At this point you should have your raspberry pi and sensor ready to use to read 
 My sensor not only takes misture readings, but also light and temperature readings. Above is the code I am using to obtain data. 
 #### *The only thing you need to keep in mind is that you need to press restart button twice to bring sensor in active mode and to get readings.
 
+# Data display
+The output you should be obtaining are:
+
