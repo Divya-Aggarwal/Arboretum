@@ -28,4 +28,20 @@ The only thing you need to keep in mind is that you need to press restart button
 
 # Mechanical Assembly
 
-## b
+## Setup raspberry pi
+If you're installing os  first time on raspberry pi and don't know how to do it, follow the below steps:
+
+### Step1. Download Raspbian
+It can easily take more than half an hour to download the software.Download Noobs from https://www.raspberrypi.org/downloads/
+
+### Step2. Download SDcard Formatter
+Download SDcard formatter from https://www.sdcard.org/downloads/formatter_4/eula_windows/
+
+### Step3. Unzip the raspbian file
+The Raspbian disc image is compressed, so you’ll need to unzip it. The file uses the ZIP64 format, so depending on how current your built-in utilities are, you need to use certain programs to unzip it.
+
+### Step4. Write the disc image to your microSD card
+Select the drive of your SD card in the ‘Device’ dropdown.
+
+### Step5. Put the microSD card in your Pi and boot up
+Select ‘Write’ and wait for the process to finish which may take around 20 minutes to complete
