@@ -95,3 +95,20 @@ My sensor not only takes misture readings, but also light and temperature readin
 # Data display
 The output you should be obtaining are:
 
+![capture13](https://user-images.githubusercontent.com/43180510/49833891-eb3efd00-fd68-11e8-974f-557d685912db.PNG)
+
+Try to obtain different readings for moisture and brightness by putting more water or covering light sensor.
+
+# Enclosure
+
+Now you are having your chirp! water sensor working. At this point of time, you may want to build a case to protect your pi and prevent it from damage. You need to use Corel Draw software for that. To build a case that is perfect for your pi first thing you need to do is to get all the measurements for example Height, Width, Length. If you don't know how to use this software you can visit to the following link:
+https://www.coreldraw.com/en/pages/tutorials/coreldraw/
+
+Below is the picture of my corel file. Hope it will be helpful :)
+![capture14](https://user-images.githubusercontent.com/43180510/49834202-d4e57100-fd69-11e8-8cac-b2e7d56b9022.PNG)
+
+
+After you got your case pieces sperated using laser cut, you can combine them to get perfect case:
+
+![capture15](https://user-images.githubusercontent.com/43180510/49834277-03634c00-fd6a-11e8-95a9-37700ef21555.PNG)
+
