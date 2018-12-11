@@ -45,3 +45,16 @@ Select the drive of your SD card in the ‘Device’ dropdown.
 
 ### Step5. Put the microSD card in your Pi and boot up
 Select ‘Write’ and wait for the process to finish which may take around 20 minutes to complete
+
+# Hardware Setup
+Starting with connections you have to make sure your sensor is at the right address. Address of chirp! water sensor is 00x20. Below are the screenshots of address connection and it's output.
+
+![capture3](https://user-images.githubusercontent.com/43180510/49832216-09eec500-fd64-11e8-8926-fbe4158946cc.PNG)
+
+To check if your connections are correct and you are getting correct address, than open terminal on pi and type command: 
+#### i2cdetect -y 1
+
+You will get the following output:
+
+![capture4](https://user-images.githubusercontent.com/43180510/49832232-107d3c80-fd64-11e8-952c-4b40d1df1ea6.PNG)
+
