@@ -4,12 +4,12 @@ Chirp! water sensor is also known as plant watering alarm. This sensor helps to 
 
 # Component requirements
 
-###### -> Raspberry pi3 B+
-###### -> Chirp! Water Sensor
-###### -> Male to female jumper wires and breadboard to test temporary circuit connections
-### -> PCB board with final circuit printed on it with correct address.
-### -> Socket header
-### -> Enclosure (case) to hold circuit together.
+##### -> Raspberry pi3 B+
+##### -> Chirp! Water Sensor
+##### -> Male to female jumper wires and breadboard to test temporary circuit connections
+##### -> PCB board with final circuit printed on it with correct address.
+##### -> Socket header
+##### -> Enclosure (case) to hold circuit together.
 
 # Overall Budget
 
