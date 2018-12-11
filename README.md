@@ -107,7 +107,7 @@ https://www.coreldraw.com/en/pages/tutorials/coreldraw/
 Below is the picture of my corel file. Hope it will be helpful :)
 ![capture14](https://user-images.githubusercontent.com/43180510/49834202-d4e57100-fd69-11e8-8cac-b2e7d56b9022.PNG)
 
-
+b
 After you got your case pieces sperated using laser cut, you can combine them to get perfect case:
 
 ![capture15](https://user-images.githubusercontent.com/43180510/49834277-03634c00-fd6a-11e8-95a9-37700ef21555.PNG)
