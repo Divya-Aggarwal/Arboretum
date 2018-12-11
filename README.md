@@ -86,9 +86,8 @@ After that you can just attached your sensor and raspberry pi to PCB. Make sure 
 
 At this point you should have your raspberry pi and sensor ready to use to read data. Here i am ruuning this python code over here.
 
-
-![capture8](https://user-images.githubusercontent.com/43180510/49833472-96e74d80-fd67-11e8-9834-22169021fb78.PNG)
-![capture9](https://user-images.githubusercontent.com/43180510/49833479-9c449800-fd67-11e8-8ac9-8f7004cf5a73.PNG)
+![capture10](https://user-images.githubusercontent.com/43180510/49833747-6e138800-fd68-11e8-9247-2768e7c623cb.PNG)
+![capture11](https://user-images.githubusercontent.com/43180510/49833748-6eac1e80-fd68-11e8-8819-20d087ff782d.PNG)
 
 My sensor not only takes misture readings, but also light and temperature readings. Above is the code I am using to obtain data. 
 #### *The only thing you need to keep in mind is that you need to press restart button twice to bring sensor in active mode and to get readings.
