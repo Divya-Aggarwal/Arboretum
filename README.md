@@ -54,7 +54,7 @@ Starting with connections you have to make sure your sensor is at the right addr
 ##### -> Connect GND (pin #6) from sensor to ground pin 5 on raspberry pi.
 ##### -> Connect VCC (PIN #2) from sensor to 3.3V first pin of raspberry pi.
 
-You don't need to make any connection of sensor's MISO and RESET pins. We are not using them.
+You don't need to make any connection of sensor's MISO and RESET pins. We are not using them. We are using two resistors to make our sensor work properly with I2C.
 
 
 Address of chirp! water sensor is 00x20. Below are the screenshots of address connection and it's output.
@@ -68,3 +68,15 @@ You will get the following output:
 
 ![capture4](https://user-images.githubusercontent.com/43180510/49832232-107d3c80-fd64-11e8-952c-4b40d1df1ea6.PNG)
 
+# PCB and Soldering
+Once you know how to do all the connections, you need to carefully design your PCB using Fritzing software. PCB you made is a permanent board (containing your circuit conections you made before) which you are going to use in your project.
+
+![capture5](https://user-images.githubusercontent.com/43180510/49833015-44596180-fd66-11e8-984f-3fee248cdc28.PNG
+
+The wires that are yellow in colour are on the top side of the board and orange ones are at the bottom. It is important not to cross two wires on the same side of board. Next step is to get your PCB board made once you have got your PCB ready carefully solder socket headers to the PCB you have to very carefull. Safety is the first priority so it is important to know what are you working with. If you haven't done soldering before you should get help from someone with experience or from youtube videos. For above design I have this PCB should look like this:
+
+![capture6](https://user-images.githubusercontent.com/43180510/49833175-b9c53200-fd66-11e8-841a-4eab15cc589d.PNG)
+
+After that you can just attached your sensor and raspberry pi to PCB. Make sure all the wires are connected and your sensor is at the correct address.
+
+![capture7](https://user-images.githubusercontent.com/43180510/49833218-d6fa0080-fd66-11e8-8a28-e1ab9fa1e660.PNG)
