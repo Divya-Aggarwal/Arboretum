@@ -22,7 +22,7 @@ I was able to arrange soil from nursery and socket header from prototype lab. Th
 
 This schedule is made before we started working on our project (to keep us on track).
 
-Sensor is available on adafruit only. It took around a week to come. Along with sensor order socket header too for your project. You can consume that time in making gerber files and corel draw and having your other stuff ready like arrange a plant for sensor testing. The whole time this sensor will take to work on is approximately 2 weeka. Go with my code provided below and have your sensor working in last time.
+Sensor is available on adafruit only. It took around a week to come. Along with sensor, order socket header too for your project. You can consume that two week time in making gerber files and corel draw and having your other stuff ready like arranging a plant for sensor testing. The whole time this sensor will take to work on is approximately 2 weeks. Go with my code provided below and have your sensor working in less amount of time.
 
 ****The only thing you need to keep in mind is that you need to press restart button twice to bring sensor in active mode and to get readings.
 
