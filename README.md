@@ -10,7 +10,7 @@ Chirp! water sensor is also known as plant watering alarm. This sensor helps to 
 ##### -> PCB board with final circuit printed on it with correct address.
 ##### -> Socket header
 ##### -> Enclosure (case) to hold circuit together.
-
+cc
 # Overall Budget
 
 ![capture](https://user-images.githubusercontent.com/43180510/49830888-74056b00-fd60-11e8-93dd-53d7ad498b5c.PNG)
