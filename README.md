@@ -22,9 +22,9 @@ I was able to arrange soil from nursery and socket header from prototype lab. Th
 
 This schedule is made before we started working on our project (to keep us on track).
 
-![capture2](https://user-images.githubusercontent.com/43180510/49831279-7caa7100-fd61-11e8-84f4-4baeed8bc161.PNG)
+Sensor is available on adafruit only. It took around a week to come. Along with sensor order socket header too for your project. You can consume that time in making gerber files and corel draw and having your other stuff ready like arrange a plant for sensor testing. The whole time this sensor will take to work on is approximately 2 weeka. Go with my code provided below and have your sensor working in last time.
 
-The only thing you need to keep in mind is that you need to press restart button twice to bring sensor in active mode and to get readings.
+****The only thing you need to keep in mind is that you need to press restart button twice to bring sensor in active mode and to get readings.
 
 # Mechanical Assembly
 
@@ -114,6 +114,4 @@ After you got your case pieces sperated using laser cut, you can combine them to
 
 ![capture15](https://user-images.githubusercontent.com/43180510/49834277-03634c00-fd6a-11e8-95a9-37700ef21555.PNG)
 
-
-You can use cable harnass instead of jumper wires. Laser cutting will be costly, so you can use injection moulding as it's alternative.
-
+Using jumper wires is not such a good idea as it can be confusing for some. So you can use cable harnass instead of jumper wires. Moreover, laser cutting will be costly, so you can use injection moulding as it's alternative.
