@@ -47,7 +47,17 @@ Select the drive of your SD card in the ‘Device’ dropdown.
 Select ‘Write’ and wait for the process to finish which may take around 20 minutes to complete
 
 # Hardware Setup
-Starting with connections you have to make sure your sensor is at the right address. Address of chirp! water sensor is 00x20. Below are the screenshots of address connection and it's output.
+Starting with connections you have to make sure your sensor is at the right address. Connections you need to make using male to female jumper wires are:
+
+##### -> Connect SDA (pin #4) from sensor to SDA on pi (pin #2)
+##### -> Connect SCL (pin #3) from sensor to SCL on pi (pin #3)
+##### -> Connect GND (pin #6) from sensor to ground pin 5 on raspberry pi.
+##### -> Connect VCC (PIN #2) from sensor to 3.3V first pin of raspberry pi.
+
+You don't need to make any connection of sensor's MISO and RESET pins. We are not using them.
+
+
+Address of chirp! water sensor is 00x20. Below are the screenshots of address connection and it's output.
 
 ![capture3](https://user-images.githubusercontent.com/43180510/49832216-09eec500-fd64-11e8-8926-fbe4158946cc.PNG)
 
