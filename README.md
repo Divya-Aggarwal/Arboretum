@@ -81,6 +81,8 @@ After that you can just attached your sensor and raspberry pi to PCB. Make sure 
 
 ![capture7](https://user-images.githubusercontent.com/43180510/49833218-d6fa0080-fd66-11e8-8a28-e1ab9fa1e660.PNG)
 
+Now you might be curious to know why I am still using jumper wires after all the connections. Here is the answer. I have to put half of my sensor into plant (or soil) which is not possible to do if I connect my sensor to the PCB board. The only solution to this problem is to use jumper wires (male to female).
+
 
 # Sensor Readings
 
@@ -107,7 +109,7 @@ https://www.coreldraw.com/en/pages/tutorials/coreldraw/
 Below is the picture of my corel file. Hope it will be helpful :)
 ![capture14](https://user-images.githubusercontent.com/43180510/49834202-d4e57100-fd69-11e8-8cac-b2e7d56b9022.PNG)
 
-b
+
 After you got your case pieces sperated using laser cut, you can combine them to get perfect case:
 
 ![capture15](https://user-images.githubusercontent.com/43180510/49834277-03634c00-fd6a-11e8-95a9-37700ef21555.PNG)
